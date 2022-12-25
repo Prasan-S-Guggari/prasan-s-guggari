@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasan S Guggari</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 📫 How to reach me **guggaripran@gmail.com**
 
